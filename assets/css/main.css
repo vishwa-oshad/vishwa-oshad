@@ -264,6 +264,9 @@ h6 {
   display: block;
 }
 
+
+
+
 /*--------------------------------------------------------------
 # Global Footer
 --------------------------------------------------------------*/
@@ -1445,3 +1448,308 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+
+
+
+
+/*--------------------------------------------------------------
+# New Section Section
+--------------------------------------------------------------*/
+.new-section {
+  /* Add your styles here */
+}
+
+
+.container-new{
+        height: 100%;
+    }
+
+
+.back-vid{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    mix-blend-mode:overlay;
+}
+
+
+.blackhole-box{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    z-index: -1;
+    mix-blend-mode: lighten;
+  }
+  
+.blackhole-box video{
+    width: 100%;
+    margin-top: -23.5%;
+}
+
+
+
+@media screen and (max-width: 1200px){
+    .blackhole-box video{
+        margin-top: -20%;
+    }
+
+    .skills-video-box{
+        right: 0%;
+    }
+
+    .skills-video-box video{
+        height: 500px;
+    }
+
+    .hero-info h1{
+        font-size: 40px;
+        max-width: 400px;
+        line-height: 40px;
+    }
+    .hero-info P{
+        max-width: 300px;
+    }
+
+
+}
+
+
+
+@media screen and (max-width: 700px){
+
+  
+    .blackhole-box video {
+        width: 100%;
+        margin-top: -15%;
+    }
+
+    
+    .hero .skills-video-box{
+        height: 200px;
+        top: 5%;
+    }
+
+      .scroll-down{
+        bottom: 5%;
+    }
+
+    .autoBlur{
+        animation: none;
+    }
+
+      .hero{
+        flex-direction: column;
+        top:0;
+        bottom: 0;
+        left: 0;
+        right:0;
+        
+    }
+    .hero-info{
+        bottom: 5%;
+    }
+
+    
+    .hero .skills-video-box{
+        height: 200px;
+        top: 5%;
+    }
+
+
+}
+
+
+@media screen and (max-width: 480px) {
+
+
+    .blackhole-box {
+        overflow: hidden;
+    }
+
+    .blackhole-box video {
+        width: 140%;
+        margin-top: -27%;
+
+    }
+
+    .hero .skills-video-box {
+        display: none;
+        
+    }
+
+
+    .scroll-down{
+        bottom: 15%;
+        left: 60%;
+    }
+
+
+    .hero .skills-video-box {
+        display: none;
+        
+    }
+
+      .hero {
+        scale: 0.9;
+    }
+
+    .hero-info{
+        bottom: 15%;
+    }
+
+    .hero-info h1{
+        font-size: 35px;
+    }
+
+
+
+}
+
+
+/* BLUR EFFECT ANIMAION */
+
+.autoBlur{
+    animation: autoBlurAnimation linear both;
+    animation-timeline: view();
+
+}
+@keyframes autoBlurAnimation{
+    0%{
+        filter: blur(40px);
+    }
+    35%,65%{
+        filter: blur(0);
+        opacity: 1;
+    }
+    100%{
+        filter: blur(40px);
+        opacity: 0;
+    }
+}
+
+
+.skills-video-box{
+    position: absolute;
+    right: 3%;
+}
+
+.skills-video{
+    height: 900px;
+    mix-blend-mode:lighten;
+}
+
+.scroll-down {
+    height: 50px;
+    width: 30px;
+    border: 2px solid lightgray;
+    position: absolute;
+    left: 49%;
+    bottom: 8%;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.626);
+  }
+  .scroll-down::before,
+  .scroll-down::after {
+    content: "";
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    height: 10px;
+    width: 10px;
+    transform: translate(-50%, -100%) rotate(45deg);
+    border: 2px solid lightgray;
+    border-top: transparent;
+    border-left: transparent;
+    animation: scroll-down 2s ease-in-out infinite;
+  }
+  .scroll-down::before {
+    top: 30%;
+    animation-delay: 0.5s;
+    /* animation: scroll-down 1s ease-in-out infinite; */
+  }
+  
+
+  @keyframes scroll-down {
+    0% {
+      /* top:20%; */
+      opacity: 0;
+    }
+    30% {
+      opacity: 1;
+    }
+    60% {
+      opacity: 1;
+    }
+    100% {
+      top: 90%;
+      opacity: 0;
+    }
+  }
+
+
+  
+.hero2{
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.hero-info{
+    position: absolute;
+    left: 5%;
+}
+
+.hero-info .hero-info-title{
+    color: #72a1de;
+    padding: 8px 5px;
+    border-radius: 50px;
+    border: 1px solid #72a1de94;
+    width: 240px;
+    background-color: #2200493d;
+    box-shadow: 0 0 5px #72a1de84;
+}
+
+.hero-info h1{
+    font-size: 60px;
+    max-width: 600px;
+    font-weight: 700;
+    line-height: 70px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.hero-info p{
+    max-width: 550px;
+    line-height: 25px;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+.hero-info button{
+    color: white;
+    padding: 15px 35px;
+    border-radius: 10px;
+    border: 1px solid #72a1de81;
+    background-color: #2200493d;
+    box-shadow: 0 0 5px #72a1de81;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.hero-info button:hover{
+    box-shadow: 0 0 15px #72a1de81;
+}
+
+
+/*------------other */
+
+
