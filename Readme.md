@@ -3,9 +3,10 @@
 <h3 align="center">Software Engineer | Full-Stack Developer | Java & React Specialist</h3>
 
 
-<p align="center">
-  <img src="https://i.imgur.com/b6f0J4O.gif" width="250"/>
-</p>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 
 <!-- Profile Views -->
 <p align="center">
