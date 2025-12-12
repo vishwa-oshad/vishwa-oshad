@@ -4,9 +4,20 @@
 </p>
 
 <!-- Typing Effect -->
+<!-- Typing Effect (2 lines, centered) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Building%20reliable%20software%20with%20clean%20code%2C%20strong%20logic%2C%20and%20continuous%20improvement." alt="Typing Introduction" />
+   <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Code%20is%20my%20tool." 
+    alt="Typing Introduction"  
+    width="100%" 
+  />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Code%20is%20my%20tool;&lines=Innovation%20is%20my%20mindset.%20Growth%20is%20my%20journey." 
+    alt="Typing Introduction"  
+    width="100%" 
+  />
 </p>
+
 
 <!-- Profile Views -->
 <p align="center">
