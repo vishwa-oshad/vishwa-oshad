@@ -1,152 +1,120 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm <strong>VISHWA OSHAD</strong></h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Java & React Specialist</h3>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=%20I'm%20%F0%9F%90%B2Vishwa%20Oshad&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&textBg=false" alt="Vishwa Oshad Banner" width="100%"/>
+</p>
 
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
+<!-- Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Building%20reliable%20software%20with%20clean%20code%2C%20strong%20logic%2C%20and%20continuous%20improvement." alt="Typing Introduction" />
+</p>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishwa-oshad&label=Profile%20Views&color=blueviolet&style=flat-square" />
-</p>
+  <a href="https://komarev.com/ghpvc/?username=vishwa-oshad">
+    <img src="https://komarev.com/ghpvc/?username=vishwa-oshad&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile Views" />
+    
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Banner" width="100%" />
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/vishwa-oshad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@vishwa_oshad" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/vishwa_oshad" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:oshadvi364@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
+<!-- About Me -->
+## 📌 About Me
+- Curious about how software works, I turned that curiosity into a passion for building full-stack applications.  
+- I focus on writing clean, scalable code and creating modern, user-friendly solutions.  
+- Every project is a chance to learn, improve, and shape the future of technology.
 
-<!-- Trophy -->
-<h2 align="center">🏆 GitHub Achievements</h2>
+<!-- GitHub Stats & Trophies -->
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishwa-oshad&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwa-oshad&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=vishwa-oshad&theme=nightowl&hide_border=true&cache_seconds=86400" width="48%" alt="GitHub Streak" />
 </p>
-
----
-
-## 🔭 Currently Working On
-- **CrispyDelight Soft – Java Swing POS Application**  
-  _Inventory, Sales, Rentals, Orders, Appointments_  
-  🔗 **Project link:** _Coming soon_
-
----
-
-## 🌱 Currently Learning
-- Java OOP & Enterprise Architecture  
-- Laravel + React Full Stack  
-- SEO (Complete A–Z)
-
----
-
-## 👯 Collaboration Interests
-- React + TypeScript Components  
-- Laravel Packages  
-- POS & ERP Systems  
-- Dashboard UI/UX Design  
-
----
-
-## 🤝 Looking for Help With
-- Scaling **React + Laravel** applications  
-- Improving modular architecture in **Java Swing**
-
----
-
-## 💬 Ask Me About
-- E-commerce Systems  
-- Dashboards & POS  
-- Java, React, TypeScript, Laravel  
-
----
-
-## 👨‍💻 Portfolio
-🔗 **Visit my portfolio:**  
-👉 https://vishwa-oshad.github.io/vishwa-oshad/
-
----
-
-## 📫 Contact
-📧 **Email:** `oshadvi364@gmail.com`
-
----
-
-## ⚡ Fun Fact
-💡 I think I’m funny 😄 —  
-and I enjoy building software that makes people’s lives easier!
-
----
-
-# 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/vishwa-oshad" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://facebook.com/vishwa.oshad.98" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/vishwa_oshad" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/@VishwaOshad" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-# 🛠️ Languages & Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" />
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" />
-</p>
-
----
-
-# 📊 GitHub Stats & Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwa-oshad&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="180px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vishwa-oshad&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwa-oshad&theme=nightowl&radius=10&hide_border=true" alt="Activity Graph" />
 </p>
 
+<!-- Languages & Tools -->
+## 🛠️ Languages & Tools
+
+### Programming Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwa-oshad&show_icons=true&locale=en&theme=tokyonight" height="180px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" style="margin:4px;" />
 </p>
 
+### Frontend
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-oshad&theme=tokyonight" height="180px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" style="margin:4px;" />
 </p>
 
----
-
-<!-- Snake -->
-<h2 align="center">🐍 Contribution Snake</h2>
+### Backend
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishwa-oshad/vishwa-oshad/output/snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" width="40" height="40" style="margin:4px;" />
+</p>
+
+### Database
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" style="margin:4px;" />
+</p>
+
+### DevOps & Cloud
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" style="margin:4px;" />
+</p>
+
+### Tools
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" style="margin:4px;" /> 
+<img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="40" height="40" style="margin:4px;" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa-oshad&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+
+<!-- Connect With Me -->
+## 🔗 Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/vishwa-oshad/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" height="40" style="margin:0 8px;" /></a>
+<a href="https://wa.me/94788378722" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="40" height="40" style="margin:0 8px;" /></a>
+<a href="https://www.youtube.com/@VishwaOshad" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" width="40" height="40" style="margin:0 8px;" /></a>
+<a href="mailto:oshadvi364@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" height="40" style="margin:0 8px;" /></a>
+<a href="https://vishwa-oshad.github.io/vishwa-oshad/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40" height="40" style="margin:0 8px;" /></a>
+</p>
+
+<!-- Bottom Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Bottom Line" />
+</div>
