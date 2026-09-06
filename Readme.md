@@ -112,6 +112,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa-oshad&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
+
+## 🔗 My Other GitHub Account
+
+embedded systems + automation + robotics + IoT
+
+<a href="https://github.com/vishwaoshad">
+  <img src="https://img.shields.io/badge/GitHub-Other%20Account-181717?style=for-the-badge&logo=github&logoColor=white" alt="Other GitHub Account"/>
+</a>
+
+
 <!-- Connect With Me -->
 ## 🔗 Connect with Me
 <p align="center">
